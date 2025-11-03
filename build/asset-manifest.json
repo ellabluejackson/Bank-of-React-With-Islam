@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ellabluejackson/Bank-of-React-With-Islam/static/css/main.01e685fb.css",
+    "main.js": "/ellabluejackson/Bank-of-React-With-Islam/static/js/main.93ca0d8e.js",
+    "static/js/453.e61b7950.chunk.js": "/ellabluejackson/Bank-of-React-With-Islam/static/js/453.e61b7950.chunk.js",
+    "index.html": "/ellabluejackson/Bank-of-React-With-Islam/index.html",
+    "main.01e685fb.css.map": "/ellabluejackson/Bank-of-React-With-Islam/static/css/main.01e685fb.css.map",
+    "main.93ca0d8e.js.map": "/ellabluejackson/Bank-of-React-With-Islam/static/js/main.93ca0d8e.js.map",
+    "453.e61b7950.chunk.js.map": "/ellabluejackson/Bank-of-React-With-Islam/static/js/453.e61b7950.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01e685fb.css",
+    "static/js/main.93ca0d8e.js"
+  ]
+}
